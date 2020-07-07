@@ -1,5 +1,7 @@
 # Estructura de firebase:
 
+![silent_tears](../img/silent_tears.gif)
+
 ## Eventos
 Cada evento debe de contener los siguientes campos para el correcto funcionamiento de la aplicación:
  - **attendeeTypes** *String[ ]*: este es un campo que es usado generalmente para poner el tipo de asistente que permite el evento.
