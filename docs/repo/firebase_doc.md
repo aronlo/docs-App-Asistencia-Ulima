@@ -1,6 +1,5 @@
 # Estructura de firebase:
 
-![silent_tears](./img/silent_tears.gif)
 
 ## Eventos
 Cada evento debe de contener los siguientes campos para el correcto funcionamiento de la aplicación:
